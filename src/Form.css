@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+
+.title10{
+    font-family: 'Teko', sans-serif;
+    font-size: 150%;
+    margin-left: 10%;
+}
+
+.bgrn{
+    width: 17%;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 44%;
+    margin-top: 5%;
+    border: 1px solid black;
+
+}
+
+.bgrn:hover{
+    background-color: grey;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+}
+
+.form{
+    margin-left: 10%;
+    padding-top: 5%;
+}
+
+.form input{
+    display: flex;
+}

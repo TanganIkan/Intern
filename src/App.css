@@ -1,0 +1,522 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+.backround{
+  margin-left: 5%;
+  background-color: rgb(243, 232, 211);
+  width: 90%;
+  height: 2000px;
+  box-shadow: 0px 20px 20px 10px black;
+  border: solid 5px black;
+}
+
+#pict {
+  width: 70%;
+  height: 120px;
+  background-color: rgb(197, 131, 131);
+  margin-left: 15%;
+  margin-top: 10%;
+
+}
+.profile #pict img{
+  width: 250px;
+  height: 350px;
+  box-shadow: 4px 2px 4px 2px rgb(197, 131, 131);
+  border-radius: 10px;
+}
+
+.name{
+  width: 50%;
+  font-size: 200%;
+  font-family: 'Mulish', sans-serif;
+  margin-left: 38%;
+  margin-top: -12%;
+  height: 100%;
+}
+
+.name span{
+  color: beige;
+}
+
+.name h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  margin-top: 22%;
+}
+
+#line{
+  width: 100%;
+  border: solid 2px black;
+  margin-top: 0;
+  margin-left: -76%;
+}
+
+#line2{
+  width: 70%;
+  border: solid 2px black;
+  margin-top: -81%;
+  margin-left: 54%;
+}
+
+#line3{
+  width: 0px;
+  border: solid 2px black;
+  height: 200px;
+  margin-top: -5%;
+  margin-left:118%;
+}
+
+.desc{
+  width: 165%;
+  height: 1400px;
+  background-color: white;    
+  margin-left: -60%;
+  margin-top: 55%;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 5px;
+  padding-top: 2px;
+  box-shadow: 0px 0px 5px 0px black;
+}
+.desc .profil h1{
+  padding-top: 10%;
+  padding-left: 5%;
+  font-size: 40px;
+  font-family: 'Teko', sans-serif;
+}
+
+.bg{
+  width: 10%;
+  height: 58px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 5%;
+  padding-right: 25%;
+  margin-top: 10%;
+  opacity: 0.7;
+}
+.ketprofile p{
+  width: 40%;
+  margin-top: -40%;
+  padding-left: 5%;
+  font-size: 60%;
+}
+
+.edukasi  h1{
+  padding-top: 5%;
+  padding-left: 5%;
+  font-size: 40px;
+  font-family: 'Teko', sans-serif;
+}
+
+.bg2{
+  width: 10%;
+  height: 60px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 5%;
+  padding-right: 25%;
+  margin-top: -1%;
+  opacity: 0.7;
+}
+
+.ketedukasi h3{
+  width: 40%;
+  padding-top: 0%;
+  padding-left: 5%;
+  font-size: 60%;
+  font-weight: bold;
+}
+
+.ketedukasi p{
+  width: 40%;
+  padding-top: -5%;
+  padding-left: 5%;
+  font-size: 60%;
+}
+#line4{
+  width: 0px;
+  border: solid 2px black;
+  height: 400px;
+  padding-top: 20%;
+  margin-left: 50%;
+}
+
+.pengalaman h1{
+  padding-left: 5%;
+  padding-top: 5%;
+  font-size: 40px;
+  font-family: 'Teko', sans-serif;
+  margin-top: 10%;
+}
+
+.bg3{
+  width: 10%;
+  height: 60px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 58%;
+  padding-right: 25%;
+  margin-top: -51%;
+  opacity: 0.7;
+}
+
+.ketpengalaman{
+  width: -5;
+  font-size: 20px;
+  padding-left: 54%;
+}
+
+.ketpengalaman2{
+  width: -5%;
+  font-size: 20px;
+  padding-left: 54%;
+  padding-top: 1%;
+}
+
+.title1{
+  font-family: 'Teko', sans-serif;
+  font-size: 50%;
+  padding-top: 20%;
+  padding-left: 5%;
+}
+
+.phonecall img{
+  width: 10%;
+  padding-left: 5%;
+}
+
+.phonecall a img:hover{
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+
+.number {
+  margin-top: -27%;
+  padding-left: 12%;
+  padding-top: 18%;
+  font-size: 70%;
+}
+
+.title2{
+  font-family: 'Teko', sans-serif;
+  font-size: 50%;
+  padding-top: 2%;
+  padding-left: 5%;
+}
+
+.email img{
+  width: 10%;
+  padding-left: 5%;
+  margin-top: -2%;
+}
+
+.email a img:hover{
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+
+.teksmail{
+  margin-top: -27%;
+  padding-left: 12%;
+  padding-top: 18%;
+  font-size: 70%;
+}
+
+.title3{
+  font-family: 'Teko', sans-serif;
+  font-size: 50%;
+  padding-top: 2%;
+  padding-left: 5%;
+}
+
+.addres img{
+  width: 10%;
+  padding-left: 5%;
+  margin-top: -2%;
+}
+
+.addres a img:hover{
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+
+.textaddres{
+  margin-top: -27%;
+  padding-left: 12%;
+  padding-top: 18%;
+  font-size: 70%;
+}
+
+.title5{
+  font-family: 'Teko', sans-serif;
+  font-size: 50%;
+  padding-top: 2%;
+  padding-left: 5%;
+}
+
+.github img{
+  width: 10%;
+  padding-left: 5%;
+  margin-top: -2%;
+}
+
+.github a img:hover{
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+
+.githubtext{
+  margin-top: -27%;
+  padding-left: 12%;
+  padding-top: 18%;
+  font-size: 70%;
+}
+
+@media screen and (max-width: 768px){
+
+  .backround{
+    margin-left: 5%;
+    background-color: rgb(243, 232, 211);
+    width: 90%;
+    padding-bottom: 8%;
+    height:  100%;
+    box-shadow: 0px 20px 20px 10px black;
+    border: solid 5px black;
+  }
+
+  #pict {
+    width: 65%;
+    height: 60px;
+    background-color: rgb(197, 131, 131);
+    margin-left: 15%;
+    margin-top: 10%;
+  
+  }
+
+  .profile #pict img{
+    width: 170px;
+    height: 230px;
+    box-shadow: 4px 2px 4px 2px rgb(197, 131, 131);
+    border-radius: 10px;
+  }
+
+  .name{
+    width: 40%;
+    font-size: 100%;
+    font-family: 'Mulish', sans-serif;
+    margin-left: 41%;
+    margin-top: -9%;
+  }
+  
+  .name h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-top: 38%;
+  }
+
+  #line{
+    width: 120%;
+    border: solid 2px black;
+    margin-top: 0;
+    margin-left: -104%;
+  }
+
+  #line2{
+    width: 80%;
+    border: solid 2px black;
+    margin-top: -105%;
+    margin-left: 66%;
+  }
+
+  #line3{
+    width: 0px;
+    border: solid 2px black;
+    height: 100px;
+    margin-top: -10%;
+    margin-left: 140%;
+  }
+
+  .desc{
+  width: 175%;
+  height: 1700px;
+  background-color: white;    
+  margin-left: -65%;
+  margin-top: 80%;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 5px;
+  padding-top: 2px;
+}
+
+.desc .profil h1{
+  padding-top: -5%;
+  padding-left: 65%;
+  font-size: 50px;
+  font-family: 'Teko', sans-serif;
+}
+
+.bg{
+  width: 10%;
+  height: 60px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 32%;
+  padding-right: 25%;
+  margin-top: 10%;
+  opacity: 0.7;
+}
+
+.ketprofile p{
+  width: 60%;
+  margin-top: -55%;
+  padding-left: 20%;
+  font-size: 100%;
+  text-align: center;
+}
+
+.edukasi  h1{
+  padding-top: 2%;
+  padding-left: 30%;
+  font-size: 50px;
+  font-family: 'Teko', sans-serif;
+}
+
+.bg2{
+  width: 20%;
+  height: 60px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 27%;
+  padding-right: 25%;
+  margin-top: 5%;
+  opacity: 0.7;
+}
+
+.ketedukasi h3{
+  width: 40%;
+  padding-top: 0%;
+  padding-left: 31%;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+.ketedukasi p{
+  width: 60%;
+  margin-top: -1%;
+  padding-left: 20%;
+  font-size: 110%;
+  text-align: center;
+}
+
+#line4{
+  width: 0px;
+  border: solid 2px rgb(255, 255, 255);
+  height: 180px;
+  padding-top: 20%;
+  margin-left: 50%;
+}
+
+.pengalaman h1{
+  width: 60%;
+  margin-top: -55%;
+  padding-left: 50%;
+  font-size: 300%;
+  text-align: center;
+}
+
+.bg3{
+  width: 10%;
+  height: 60px;
+  background-color: rgb(198, 150, 150);
+  margin-left: 27%;
+  padding-right: 35%;
+  margin-top: 15%;
+  opacity: 0.7;
+}
+
+.ketpengalaman{
+  width: 70%;
+  font-size: 18px;
+  margin-left: -43%;
+  text-align: center;
+}
+
+.ketpengalaman2{
+  width: 70%;
+  font-size: 18px;
+  margin-left: -43%;
+  margin-top: -5%;
+  text-align: center;
+}
+
+.title1{
+  font-family: 'Teko', sans-serif;
+  font-size: 100%;
+  padding-top: 10%;
+  padding-left: 38%;
+}
+
+.phonecall img{
+  width: 50px;
+  padding-left: 44%;
+}
+
+.number {
+  margin-top: -20%;
+  padding-left: 33%;
+  padding-top: 18%;
+  font-size: 100%;
+}
+
+.title2{
+  font-family: 'Teko', sans-serif;
+  font-size: 100%;
+  padding-top: -10%;
+  padding-left: 43%;
+}
+
+.email img{
+  width: 50px;
+  padding-left: 44%;
+}
+
+.teksmail{
+  margin-top: -20%;
+  padding-left: 21%;
+  padding-top: 18%;
+  font-size: 100%;
+}
+
+.title3{
+  font-family: 'Teko', sans-serif;
+  font-size: 100%;
+  padding-top: -10%;
+  padding-left: 40%;
+}
+
+.addres img{
+  width: 50px;
+  padding-left: 44%;
+}
+
+.textaddres{
+  margin-top: -20%;
+  padding-left: 27%;
+  padding-top: 18%;
+  font-size: 100%;;
+}
+
+.title5{
+  font-family: 'Teko', sans-serif;
+  font-size: 100%;
+  padding-top: -10%;
+  padding-left: 42%;
+}
+
+.github img{
+  width: 50px;
+  padding-left: 44%;
+}
+
+.githubtext{
+  margin-top: -20%;
+  padding-left: 40%;
+  padding-top: 18%;
+  font-size: 100%;;
+}
+}
